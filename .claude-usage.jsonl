@@ -1,0 +1,2 @@
+{"type":"call","ts":1793901761,"task":"approve-pipeline","model":"opus","model_id":"claude-opus-5"}
+{"type":"call","ts":1793902010,"task":"gen-design-doc","model":"opus","model_id":"claude-opus-5"}
